@@ -1,1 +1,1 @@
-# cgps-content
+# content repo for cgps site
